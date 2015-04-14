@@ -1,0 +1,12 @@
+# Logs and databases #
+
+*.log
+# OS genereted files #
+.DS_Store
+.DS_Store?
+._*
+.Spotligh-v100
+.Trashes
+ehtumbs.db
+Thumbs.db
+
